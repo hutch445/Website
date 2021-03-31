@@ -2,5 +2,8 @@
 
 Welcome to my Website!
 
-My About Me page: https://hutch445.github.io/Website/AboutMe
-My Projects page: https://hutch445.github.io/Website/Projects
+## Other Pages
+
+My [About Me](https://hutch445.github.io/Website/AboutMe) page
+
+My [Projects](https://hutch445.github.io/Website/Projects) page
