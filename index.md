@@ -1,4 +1,3 @@
-# Hello
+# Hello!
 
-Hi Mom! Hi Dad!
-How has your day been?
+Welcome to my Website!
