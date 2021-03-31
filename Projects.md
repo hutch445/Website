@@ -4,8 +4,8 @@ I Don't Have many projects because this is my first year coding and first semest
 
 ## DMV Simulator
 
-Here I have a DMVSimulator that we had to do for my Git class: https://github.com/hutch445/DMVSimulator 
+Here I have a [DMVSimulator](https://github.com/hutch445/DMVSimulator) that we had to do for my Git class
 
 ## Hello World
-0
-Here I have a HelloWorld project that we had to do for my Git class: https://github.com/hutch445/csc109assignment4
+
+Here I have a [HelloWorld](https://github.com/hutch445/csc109assignment4) project that we had to do for my Git class
